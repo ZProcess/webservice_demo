@@ -1,0 +1,17 @@
+/target
+
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
+/common/target
+/dao/target
+/service/target
+/web/target
+/webapi/target
+/code-generator/target
+/domain/target
